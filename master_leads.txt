@@ -1,0 +1,253 @@
+========== GURI LEAD GENERATION SYSTEM ==========
+
+========== LEAD REPORT: 2026-03-15T18:25:02.720Z ==========
+Query: Dentist in Toronto, Canada
+
+Lead #1:
+- Business Name: Aspen Dental
+- City & Country: Toronto, Canada
+- Category: Dentist
+- Google Maps: https://www.google.com/maps/search/?api=1&query=Aspen%20Dental%20Toronto%2C%20Canada
+- Website: None/Outdated
+- Phone/WhatsApp: Unlisted
+- Rating & Reviews: Variable 16 Years
+- Why they need a website: Business has a local listing but no functioning website, indicating a weak online presence.
+- Estimated Budget: $500 - $2000
+--------------------------------------------------
+Lead #2:
+- Business Name: Nikki A Nazionale, DDS
+- City & Country: Toronto, Canada
+- Category: Dentist
+- Google Maps: https://www.google.com/maps/search/?api=1&query=Nikki%20A%20Nazionale%2C%20DDS%20Toronto%2C%20Canada
+- Website: None/Outdated
+- Phone/WhatsApp: (740) 282-5351
+- Rating & Reviews: Variable 26 Years
+- Why they need a website: Business has a local listing but no functioning website, indicating a weak online presence.
+- Estimated Budget: $500 - $2000
+--------------------------------------------------
+
+========== LEAD REPORT: 2026-03-15T18:25:24.249Z ==========
+Query: Law Firm in London, UK
+
+Lead #1:
+- Business Name: Copeland & Romines
+- City & Country: London, UK
+- Category: Law Firm
+- Google Maps: https://www.google.com/maps/search/?api=1&query=Copeland%20%26%20Romines%20London%2C%20UK
+- Website: None/Outdated
+- Phone/WhatsApp: Unlisted
+- Rating & Reviews: Variable No reviews
+- Why they need a website: Business has a local listing but no functioning website, indicating a weak online presence.
+- Estimated Budget: $500 - $2000
+--------------------------------------------------
+Lead #2:
+- Business Name: Hammons & Brittain Attorneys At Law
+- City & Country: London, UK
+- Category: Law Firm
+- Google Maps: https://www.google.com/maps/search/?api=1&query=Hammons%20%26%20Brittain%20Attorneys%20At%20Law%20London%2C%20UK
+- Website: None/Outdated
+- Phone/WhatsApp: (606) 528-5252
+- Rating & Reviews: Variable 73 Years
+- Why they need a website: Business has a local listing but no functioning website, indicating a weak online presence.
+- Estimated Budget: $500 - $2000
+--------------------------------------------------
+
+========== LEAD REPORT: 2026-03-15T18:28:18.186Z ==========
+Query: Consulting Firm in Austin, TX, USA
+
+Lead #1:
+- Business Name: Benaglio Group LLC The
+- City & Country: Austin, TX, USA
+- Category: Consulting Firm
+- Google Maps: https://www.google.com/maps/search/?api=1&query=Benaglio%20Group%20LLC%20The%20Austin%2C%20TX%2C%20USA
+- Website: None/Outdated
+- Phone/WhatsApp: Unlisted
+- Rating & Reviews: Variable 45 Years
+- Why they need a website: Business has a local listing but no functioning website, indicating a weak online presence.
+- Estimated Budget: $500 - $2000
+--------------------------------------------------
+
+========== LEAD REPORT: 2026-03-15T18:28:24.744Z ==========
+Query: Salon in Austin, TX, USA
+
+Lead #1:
+- Business Name: Tanya Faris Hair
+- City & Country: Austin, TX, USA
+- Category: Salon
+- Google Maps: https://www.google.com/maps/search/?api=1&query=Tanya%20Faris%20Hair%20Austin%2C%20TX%2C%20USA
+- Website: None/Outdated
+- Phone/WhatsApp: (408) 705-7225
+- Rating & Reviews: Variable (10)
+- Why they need a website: Business has a local listing but no functioning website, indicating a weak online presence.
+- Estimated Budget: $500 - $2000
+--------------------------------------------------
+Lead #2:
+- Business Name: Steampunk Saloon
+- City & Country: Austin, TX, USA
+- Category: Salon
+- Google Maps: https://www.google.com/maps/search/?api=1&query=Steampunk%20Saloon%20Austin%2C%20TX%2C%20USA
+- Website: None/Outdated
+- Phone/WhatsApp: (512) 524-1934
+- Rating & Reviews: Variable No reviews
+- Why they need a website: Business has a local listing but no functioning website, indicating a weak online presence.
+- Estimated Budget: $500 - $2000
+--------------------------------------------------
+
+========== LEAD REPORT: 2026-03-15T18:28:45.362Z ==========
+Query: Gym in Toronto, Canada
+
+Lead #1:
+- Business Name: Cindy's Fusion Fitness
+- City & Country: Toronto, Canada
+- Category: Gym
+- Google Maps: https://www.google.com/maps/search/?api=1&query=Cindy's%20Fusion%20Fitness%20Toronto%2C%20Canada
+- Website: None/Outdated
+- Phone/WhatsApp: (304) 559-7975
+- Rating & Reviews: Variable No reviews
+- Why they need a website: Business has a local listing but no functioning website, indicating a weak online presence.
+- Estimated Budget: $500 - $2000
+--------------------------------------------------
+
+========== LEAD REPORT: 2026-03-15T18:28:48.710Z ==========
+Query: Home Services in Houston, TX, USA
+
+Lead #1:
+- Business Name: Premiere Service Solutions
+- City & Country: Houston, TX, USA
+- Category: Home Services
+- Google Maps: https://www.google.com/maps/search/?api=1&query=Premiere%20Service%20Solutions%20Houston%2C%20TX%2C%20USA
+- Website: None/Outdated
+- Phone/WhatsApp: Unlisted
+- Rating & Reviews: Variable 5 Years
+- Why they need a website: Business has a local listing but no functioning website, indicating a weak online presence.
+- Estimated Budget: $500 - $2000
+--------------------------------------------------
+Lead #2:
+- Business Name: Americana Maid Pros
+- City & Country: Houston, TX, USA
+- Category: Home Services
+- Google Maps: https://www.google.com/maps/search/?api=1&query=Americana%20Maid%20Pros%20Houston%2C%20TX%2C%20USA
+- Website: None/Outdated
+- Phone/WhatsApp: (281) 541-3755
+- Rating & Reviews: Variable 11 Years
+- Why they need a website: Business has a local listing but no functioning website, indicating a weak online presence.
+- Estimated Budget: $500 - $2000
+--------------------------------------------------
+Lead #3:
+- Business Name: Sam Star Cleaning Services
+- City & Country: Houston, TX, USA
+- Category: Home Services
+- Google Maps: https://www.google.com/maps/search/?api=1&query=Sam%20Star%20Cleaning%20Services%20Houston%2C%20TX%2C%20USA
+- Website: None/Outdated
+- Phone/WhatsApp: (281) 401-8724
+- Rating & Reviews: Variable (2)15 Years
+- Why they need a website: Business has a local listing but no functioning website, indicating a weak online presence.
+- Estimated Budget: $500 - $2000
+--------------------------------------------------
+
+========== LEAD REPORT: 2026-03-15T18:28:51.891Z ==========
+Query: Law Firm in Houston, TX, USA
+
+Lead #1:
+- Business Name: Lanier  Law Firm
+- City & Country: Houston, TX, USA
+- Category: Law Firm
+- Google Maps: https://www.google.com/maps/search/?api=1&query=Lanier%20%20Law%20Firm%20Houston%2C%20TX%2C%20USA
+- Website: None/Outdated
+- Phone/WhatsApp: Unlisted
+- Rating & Reviews: Variable 36 Years
+- Why they need a website: Business has a local listing but no functioning website, indicating a weak online presence.
+- Estimated Budget: $500 - $2000
+--------------------------------------------------
+Lead #2:
+- Business Name: Law Office of Delphine James
+- City & Country: Houston, TX, USA
+- Category: Law Firm
+- Google Maps: https://www.google.com/maps/search/?api=1&query=Law%20Office%20of%20Delphine%20James%20Houston%2C%20TX%2C%20USA
+- Website: None/Outdated
+- Phone/WhatsApp: Unlisted
+- Rating & Reviews: Variable 21 Years
+- Why they need a website: Business has a local listing but no functioning website, indicating a weak online presence.
+- Estimated Budget: $500 - $2000
+--------------------------------------------------
+Lead #3:
+- Business Name: Gay & Reitz Attorneys At Law
+- City & Country: Houston, TX, USA
+- Category: Law Firm
+- Google Maps: https://www.google.com/maps/search/?api=1&query=Gay%20%26%20Reitz%20Attorneys%20At%20Law%20Houston%2C%20TX%2C%20USA
+- Website: None/Outdated
+- Phone/WhatsApp: Unlisted
+- Rating & Reviews: Variable 36 Years
+- Why they need a website: Business has a local listing but no functioning website, indicating a weak online presence.
+- Estimated Budget: $500 - $2000
+--------------------------------------------------
+Lead #4:
+- Business Name: Law Office of Daniel E. McCarty  Jr.
+- City & Country: Houston, TX, USA
+- Category: Law Firm
+- Google Maps: https://www.google.com/maps/search/?api=1&query=Law%20Office%20of%20Daniel%20E.%20McCarty%20%20Jr.%20Houston%2C%20TX%2C%20USA
+- Website: None/Outdated
+- Phone/WhatsApp: Unlisted
+- Rating & Reviews: Variable 33 Years
+- Why they need a website: Business has a local listing but no functioning website, indicating a weak online presence.
+- Estimated Budget: $500 - $2000
+--------------------------------------------------
+
+========== HIGH-QUALITY API LEAD REPORT: 2026-03-16T19:29:49.864Z ==========
+Query: Boutique in Dubai, UAE
+
+Premium Lead #1:
+- Business Name: Burj De Couture Boutique
+- Address: S.P. Metro Building, Umm Al Sheif , Sheikh Zayed Road From Dubai Downtown Exit 43, near Aqua Properties 5meters away from First Gulf Bank (FAB) metro station - main entrance is overlooking, Jumeirah Side Building - أم الشيف - ام الشيف - دبي - United Arab Emirates
+- Category: Boutique
+- Google Maps: https://maps.google.com/?cid=17479515662902456682
+- Website: None (Confirmed via Google Maps API)
+- Phone/WhatsApp: 055 851 0000
+- Rating & Reviews: 4.7 Stars (23 Reviews)
+- Why they need a website: Established business with 23 reviews but zero linked website. Phone number available.
+- Estimated Budget: $500 - $2000
+--------------------------------------------------
+Premium Lead #2:
+- Business Name: Silky Calicut
+- Address: R8 Building - 8B St - Al Karama - Sheikh Hamdan Colony - Dubai - United Arab Emirates
+- Category: Boutique
+- Google Maps: https://maps.google.com/?cid=10092933357303458528
+- Website: None (Confirmed via Google Maps API)
+- Phone/WhatsApp: 055 833 4590
+- Rating & Reviews: 4.8 Stars (17 Reviews)
+- Why they need a website: Established business with 17 reviews but zero linked website. Phone number available.
+- Estimated Budget: $500 - $2000
+--------------------------------------------------
+Premium Lead #3:
+- Business Name: Riti Boutique
+- Address: Al Karama - Dubai - United Arab Emirates
+- Category: Boutique
+- Google Maps: https://maps.google.com/?cid=9988528213354168533
+- Website: None (Confirmed via Google Maps API)
+- Phone/WhatsApp: 058 823 9239
+- Rating & Reviews: 4.9 Stars (120 Reviews)
+- Why they need a website: Established business with 120 reviews but zero linked website. Phone number available.
+- Estimated Budget: $500 - $2000
+--------------------------------------------------
+Premium Lead #4:
+- Business Name: Adore boutique
+- Address: 57QX+72G - Zaa'beel Second - Dubai Design District - Dubai - United Arab Emirates
+- Category: Boutique
+- Google Maps: https://maps.google.com/?cid=5423239307555422499
+- Website: None (Confirmed via Google Maps API)
+- Phone/WhatsApp: 055 755 1599
+- Rating & Reviews: 3.8 Stars (37 Reviews)
+- Why they need a website: Established business with 37 reviews but zero linked website. Phone number available.
+- Estimated Budget: $500 - $2000
+--------------------------------------------------
+Premium Lead #5:
+- Business Name: fiz boutique
+- Address: Al Wasl - Dubai - United Arab Emirates
+- Category: Boutique
+- Google Maps: https://maps.google.com/?cid=18151152999384090326
+- Website: None (Confirmed via Google Maps API)
+- Phone/WhatsApp: 055 661 1332
+- Rating & Reviews: 4.4 Stars (26 Reviews)
+- Why they need a website: Established business with 26 reviews but zero linked website. Phone number available.
+- Estimated Budget: $500 - $2000
+--------------------------------------------------
