@@ -19,3 +19,174 @@ Lead #2:
 - Rating & Reviews: 5 Stars (135 Reviews)
 - Reason: Premium service business with strong local reputation but ZERO online presence/website.
 --------------------------------------------------
+Lead #3:
+- Business Name: Law Offices of Michael Yi & Associates, P.C.
+- Category: Lawyers
+- Location: 2675 S Abilene St Suite 235, Aurora, CO 80014, USA
+- Phone: +1 720-282-8050
+- Google Maps: https://maps.google.com/?cid=13868352605786173455
+- Rating & Reviews: 4.5 Stars (24 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #4:
+- Business Name: Xavier A. Gutierrez Law Offices
+- Category: Lawyers
+- Location: 226 N State College Blvd, Anaheim, CA 92806, USA
+- Phone: +1 714-774-9494
+- Google Maps: https://maps.google.com/?cid=17109133129006410254
+- Rating & Reviews: 4.6 Stars (9 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #5:
+- Business Name: Law Office of Christopher H. Corren
+- Category: Lawyers
+- Location: 1313 W Robinhood Dr, Stockton, CA 95207, USA
+- Phone: +1 209-242-2888
+- Google Maps: https://maps.google.com/?cid=8065079719018692422
+- Rating & Reviews: 4.7 Stars (29 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #6:
+- Business Name: Law Offices of Tim F. Tuitavuki
+- Category: Lawyers
+- Location: 215 N San Joaquin St, Stockton, CA 95202, USA
+- Phone: +1 209-476-1590
+- Google Maps: https://maps.google.com/?cid=15425961072817866702
+- Rating & Reviews: 4.2 Stars (28 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #7:
+- Business Name: Thapliyal & Rai Law Firm
+- Category: Lawyers
+- Location: 2565 Steeles Ave E #18, Brampton, ON L6T 4L6, Canada
+- Phone: +1 905-463-2088
+- Google Maps: https://maps.google.com/?cid=6609065380022883197
+- Rating & Reviews: 4.6 Stars (268 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #8:
+- Business Name: Ziad R. Lawen Solicitor, Lawyer (practices in Arabic and French)
+- Category: Lawyers
+- Location: 5516 Spring Garden Rd #205, Halifax, NS B3J 2T9, Canada
+- Phone: +1 902-292-4250
+- Google Maps: https://maps.google.com/?cid=13938139685284534782
+- Rating & Reviews: 5 Stars (28 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #9:
+- Business Name: Phaedra Klodner Law Firm
+- Category: Lawyers
+- Location: 56 Francis St N, Kitchener, ON N2H 5B5, Canada
+- Phone: +1 519-571-4441
+- Google Maps: https://maps.google.com/?cid=8185753886858254005
+- Rating & Reviews: 4.3 Stars (35 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #10:
+- Business Name: CW Injury Law
+- Category: Lawyers
+- Location: South Tower, 5811 Cooney Rd. Suite 305, Richmond, BC V6X 3M1, Canada
+- Phone: +1 604-249-3369
+- Google Maps: https://maps.google.com/?cid=7359308139400238805
+- Rating & Reviews: 5 Stars (10 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #11:
+- Business Name: Dhahan Law
+- Category: Lawyers
+- Location: 1058 - 2560 Shell Rd, Richmond, BC V6X 4C9, Canada
+- Phone: +1 778-929-9976
+- Google Maps: https://maps.google.com/?cid=209453174643653434
+- Rating & Reviews: 5 Stars (27 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #12:
+- Business Name: Shirkey & Company
+- Category: Lawyers
+- Location: 2550 15th Ave, Regina, SK S4P 1A5, Canada
+- Phone: +1 306-359-1000
+- Google Maps: https://maps.google.com/?cid=11882338961296711930
+- Rating & Reviews: 4.9 Stars (21 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #13:
+- Business Name: Dowling Talbot | Barristers | Solicitors | Tara Talbot Lawyer
+- Category: Lawyers
+- Location: 2216 Smith St, Regina, SK S4P 2P4, Canada
+- Phone: +1 306-522-2032
+- Google Maps: https://maps.google.com/?cid=17880008591178294270
+- Rating & Reviews: 4.7 Stars (32 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #14:
+- Business Name: SAK Solicitors
+- Category: Lawyers
+- Location: 19 Bolling Rd, Broomfields, Bradford BD4 7BG, UK
+- Phone: +44 1274 492100
+- Google Maps: https://maps.google.com/?cid=8356531461831197150
+- Rating & Reviews: 4.7 Stars (72 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #15:
+- Business Name: MP Solicitors
+- Category: Lawyers
+- Location: 42 Welford Rd, Leicester LE2 7AA, UK
+- Phone: +44 116 216 2007
+- Google Maps: https://maps.google.com/?cid=6402904871633885100
+- Rating & Reviews: 5 Stars (44 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #16:
+- Business Name: Jasvir Jutla & Co
+- Category: Lawyers
+- Location: 99A London Rd, Leicester LE2 0PF, UK
+- Phone: +44 116 254 0809
+- Google Maps: https://maps.google.com/?cid=17652239248079884303
+- Rating & Reviews: 4.9 Stars (188 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #17:
+- Business Name: Lexton Law Solicitors Ltd.
+- Category: Lawyers
+- Location: 428 Foleshill Rd, Coventry CV6 5JX, UK
+- Phone: +44 24 7666 6617
+- Google Maps: https://maps.google.com/?cid=13723142320817454287
+- Rating & Reviews: 4.1 Stars (77 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #18:
+- Business Name: Longfellows & Co Solicitors
+- Category: Lawyers
+- Location: FIRST Floor, 312 A High St, Croydon CR0 1NG, UK
+- Phone: +44 20 3500 1533
+- Google Maps: https://maps.google.com/?cid=15757847477196804549
+- Rating & Reviews: 4.9 Stars (332 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #19:
+- Business Name: Morden Solicitors LLP
+- Category: Lawyers
+- Location: 270 London Rd, Croydon CR0 2TH, UK
+- Phone: +44 121 632 6464
+- Google Maps: https://maps.google.com/?cid=2196107637424063501
+- Rating & Reviews: 4.8 Stars (51 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #20:
+- Business Name: Huneewoth Solicitors Croydon
+- Category: Lawyers
+- Location: 14, Suffolk House, College Road, Croydon CR0 1PF, UK
+- Phone: +44 20 8681 3999
+- Google Maps: https://maps.google.com/?cid=8447407319490911760
+- Rating & Reviews: 4.5 Stars (35 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #21:
+- Business Name: Docherty Legal
+- Category: Lawyers
+- Location: 135 McCrae St, Bendigo VIC 3550, Australia
+- Phone: +61 3 5444 0906
+- Google Maps: https://maps.google.com/?cid=5174022352675152321
+- Rating & Reviews: 4.5 Stars (20 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
