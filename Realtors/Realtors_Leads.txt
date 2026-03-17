@@ -19,3 +19,156 @@ Lead #2:
 - Rating & Reviews: 4.9 Stars (79 Reviews)
 - Reason: Premium service business with strong local reputation but ZERO online presence/website.
 --------------------------------------------------
+Lead #3:
+- Business Name: RE/MAX Classic Real Estate
+- Category: Realtors
+- Location: 908 S Power Rd, Mesa, AZ 85206, USA
+- Phone: +1 480-832-7451
+- Google Maps: https://maps.google.com/?cid=299417573723147704
+- Rating & Reviews: 3.8 Stars (12 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #4:
+- Business Name: Colorado RE Group
+- Category: Realtors
+- Location: 142 S Raven Mine Dr, Colorado Springs, CO 80905, USA
+- Phone: +1 719-219-9739
+- Google Maps: https://maps.google.com/?cid=2914945758731805810
+- Rating & Reviews: 5 Stars (25 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #5:
+- Business Name: Julio Arana Cortes Real Estate
+- Category: Realtors
+- Location: 206 W 4th St Suite #433, Santa Ana, CA 92701, USA
+- Phone: +1 949-415-6305
+- Google Maps: https://maps.google.com/?cid=18429631890765146807
+- Rating & Reviews: 4.9 Stars (78 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #6:
+- Business Name: New Century Realtors
+- Category: Realtors
+- Location: 515 Cabrillo Park Dr STE 305, Santa Ana, CA 92701, USA
+- Phone: +1 714-240-3697
+- Google Maps: https://maps.google.com/?cid=3016484073483454795
+- Rating & Reviews: 5 Stars (5 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #7:
+- Business Name: LifeStyle Real Estate
+- Category: Realtors
+- Location: 1420 E Edinger Ave #104, Santa Ana, CA 92705, USA
+- Phone: +1 714-759-4232
+- Google Maps: https://maps.google.com/?cid=2370656868628246301
+- Rating & Reviews: 5 Stars (3 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #8:
+- Business Name: Karla Davila Real Estate
+- Category: Realtors
+- Location: 300 N Tustin Ave #201, Santa Ana, CA 92705, USA
+- Phone: +1 714-408-5549
+- Google Maps: https://maps.google.com/?cid=17872590204104279485
+- Rating & Reviews: 5 Stars (6 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #9:
+- Business Name: Team Herr, Private Real Estate Collection
+- Category: Realtors
+- Location: 3825 Edwards Rd Suite 103, Cincinnati, OH 45209, USA
+- Phone: +1 513-708-7770
+- Google Maps: https://maps.google.com/?cid=7444350008615758417
+- Rating & Reviews: 4.9 Stars (90 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #10:
+- Business Name: Dinesh Kapoor Personal Real Estate Corporation
+- Category: Realtors
+- Location: 7928 128 St #105, Surrey, BC V3W 4E9, Canada
+- Phone: +1 604-353-5200
+- Google Maps: https://maps.google.com/?cid=11831787921161110006
+- Rating & Reviews: 5 Stars (47 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #11:
+- Business Name: Selling Scotia Realty Group
+- Category: Realtors
+- Location: 397 Bedford Hwy, Halifax, NS B3M 2C8, Canada
+- Phone: +1 902-401-8340
+- Google Maps: https://maps.google.com/?cid=413296265092434769
+- Rating & Reviews: 5 Stars (117 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #12:
+- Business Name: Best Real Estate Agents / Realtors in Kleinburg, Vaughan, Brampton, Milton and Mississauga
+- Category: Realtors
+- Location: 3300 Hwy 7, Vaughan, ON L4K 0G2, Canada
+- Phone: +1 416-346-5000
+- Google Maps: https://maps.google.com/?cid=5692681387212013357
+- Rating & Reviews: 4.3 Stars (6 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #13:
+- Business Name: Richmond Realtor - Wilson Chiu - RE/MAX Westcoast
+- Category: Realtors
+- Location: 6086 Russ Baker Wy #110, Richmond, BC V7B 1B4, Canada
+- Phone: +1 778-389-9993
+- Google Maps: https://maps.google.com/?cid=12515713782597723232
+- Rating & Reviews: 5 Stars (184 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #14:
+- Business Name: Sylvain Istifan - Vancouver Real Estate
+- Category: Realtors
+- Location: 5188 Westminster Hwy, Richmond, BC V7C 5S7, Canada
+- Phone: +1 778-847-3532
+- Google Maps: https://maps.google.com/?cid=8227979199082289345
+- Rating & Reviews: 5 Stars (82 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #15:
+- Business Name: Chris Molenaar, Associate Broker, eXp Realty Saskatoon
+- Category: Realtors
+- Location: 220 20th St W #211, Saskatoon, SK S7M 0W9, Canada
+- Phone: +1 306-800-5336
+- Google Maps: https://maps.google.com/?cid=11024115953313313614
+- Rating & Reviews: 4.9 Stars (55 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #16:
+- Business Name: Sagar(SEAN) Kundra, Real Estate Agent
+- Category: Realtors
+- Location: 1757 Halifax St, Regina, SK S4P 1T2, Canada
+- Phone: +1 306-241-6799
+- Google Maps: https://maps.google.com/?cid=4159250498233827973
+- Rating & Reviews: 4.9 Stars (277 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #17:
+- Business Name: Longacre Estate Agents
+- Category: Realtors
+- Location: 13 Westfield Rd, Horbury, Wakefield WF4 6DN, UK
+- Phone: +44 1924 682162
+- Google Maps: https://maps.google.com/?cid=9627451691130820079
+- Rating & Reviews: 4.6 Stars (46 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #18:
+- Business Name: Andersons Estate Agency
+- Category: Realtors
+- Location: 55-59 Adelaide St, Belfast BT2 8FE, UK
+- Phone: +44 7394 631902
+- Google Maps: https://maps.google.com/?cid=16729820827458013348
+- Rating & Reviews: 4.9 Stars (54 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #19:
+- Business Name: Hampshire Realty
+- Category: Realtors
+- Location: 62b London Rd, Southampton SO15 2AH, UK
+- Phone: +44 23 8017 8016
+- Google Maps: https://maps.google.com/?cid=4204522487709303170
+- Rating & Reviews: 5 Stars (21 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
