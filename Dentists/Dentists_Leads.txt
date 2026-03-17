@@ -19,3 +19,219 @@ Lead #2:
 - Rating & Reviews: 4.9 Stars (418 Reviews)
 - Reason: Premium service business with strong local reputation but ZERO online presence/website.
 --------------------------------------------------
+Lead #3:
+- Business Name: Dental Care Of Irvine
+- Category: Dentists
+- Location: 4330 Barranca Pkwy #230, Irvine, CA 92604, USA
+- Phone: +1 949-786-1234
+- Google Maps: https://maps.google.com/?cid=12335021728244706272
+- Rating & Reviews: 4 Stars (4 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #4:
+- Business Name: Orlando Emergency Dental Service
+- Category: Dentists
+- Location: 496 Delaney Ave, Orlando, FL 32801, USA
+- Phone: +1 844-578-3005
+- Google Maps: https://maps.google.com/?cid=6890930705360627345
+- Rating & Reviews: 5 Stars (9 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #5:
+- Business Name: Fresh Dental Tampa
+- Category: Dentists
+- Location: 2510 W Virginia Ave, Tampa, FL 33607, USA
+- Phone: +1 813-308-9504
+- Google Maps: https://maps.google.com/?cid=8712398050526148988
+- Rating & Reviews: 5 Stars (303 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #6:
+- Business Name: Natomas Dental Care
+- Category: Dentists
+- Location: 2321 Northgate Blvd, Sacramento, CA 95833, USA
+- Phone: +1 916-564-8088
+- Google Maps: https://maps.google.com/?cid=15489248715780029301
+- Rating & Reviews: 4.8 Stars (105 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #7:
+- Business Name: Sacramento Dental Care
+- Category: Dentists
+- Location: 200 P St, Sacramento, CA 95814, USA
+- Phone: +1 279-255-1313
+- Google Maps: https://maps.google.com/?cid=14706415174640938064
+- Rating & Reviews: 5 Stars (9 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #8:
+- Business Name: Dr. Firoz Hakakha DDS (Family Dental Care) - Long Beach. Implant and General Dentistry
+- Category: Dentists
+- Location: 1335 Long Beach Blvd, Long Beach, CA 90813, USA
+- Phone: +1 562-218-5555
+- Google Maps: https://maps.google.com/?cid=2926739383771796561
+- Rating & Reviews: 4.5 Stars (62 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #9:
+- Business Name: Hispano Dental Care Fresno
+- Category: Dentists
+- Location: 2735 N Blackstone Ave, Fresno, CA 93703, USA
+- Phone: +1 559-225-3391
+- Google Maps: https://maps.google.com/?cid=1147009548949440097
+- Rating & Reviews: 3.6 Stars (81 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #10:
+- Business Name: Aurora Family Dental Care
+- Category: Dentists
+- Location: 14221 E 4th Ave # 222, Aurora, CO 80011, USA
+- Phone: +1 303-344-1227
+- Google Maps: https://maps.google.com/?cid=14515644913027006758
+- Rating & Reviews: 4.8 Stars (54 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #11:
+- Business Name: Clinica Dental Latina
+- Category: Dentists
+- Location: 11175 E Mississippi Ave Ste 100, Aurora, CO 80012, USA
+- Phone: +1 303-364-9831
+- Google Maps: https://maps.google.com/?cid=3028635888095161625
+- Rating & Reviews: 4.7 Stars (217 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #12:
+- Business Name: Dental 4
+- Category: Dentists
+- Location: 102 E 4th St, Santa Ana, CA 92701, USA
+- Phone: +1 714-558-1464
+- Google Maps: https://maps.google.com/?cid=5778654434187154012
+- Rating & Reviews: 3.7 Stars (40 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #13:
+- Business Name: Urgent Care Dental
+- Category: Dentists
+- Location: 40 E McMicken Ave, Cincinnati, OH 45202, USA
+- Phone: +1 866-332-0570
+- Google Maps: https://maps.google.com/?cid=12722224115914111276
+- Rating & Reviews: 3.5 Stars (21 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #14:
+- Business Name: Dr Vlad Scripcaru, Clinique Dentaire Carrefour Laval
+- Category: Dentists
+- Location: 2540 Bd Daniel-Johnson, Laval, QC H7T 2S3, Canada
+- Phone: +1 450-973-7676
+- Google Maps: https://maps.google.com/?cid=16159076790920203535
+- Rating & Reviews: 5 Stars (3 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #15:
+- Business Name: Cosmo Dental Centre
+- Category: Dentists
+- Location: 373 Clarke Rd, London, ON N5W 5G4, Canada
+- Phone: +1 519-659-2767
+- Google Maps: https://maps.google.com/?cid=4957503670241185781
+- Rating & Reviews: 4.4 Stars (360 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #16:
+- Business Name: Woodbine-Steeles Dental Clinic
+- Category: Dentists
+- Location: 7155 Woodbine Ave, Markham, ON L3R 1A3, Canada
+- Phone: +1 905-479-9390
+- Google Maps: https://maps.google.com/?cid=6124053855596845439
+- Rating & Reviews: 4.6 Stars (105 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #17:
+- Business Name: Markham Dentistry
+- Category: Dentists
+- Location: 7750 Kennedy Rd Unit #8, Markham, ON L3R 0A7, Canada
+- Phone: +1 905-940-9898
+- Google Maps: https://maps.google.com/?cid=10710140696202432966
+- Rating & Reviews: 4.7 Stars (71 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #18:
+- Business Name: Shine Bright Dental Burnaby
+- Category: Dentists
+- Location: 6251 Kingsway, Burnaby, BC V5J 0H4, Canada
+- Phone: +1 604-437-0535
+- Google Maps: https://maps.google.com/?cid=6188533554330577462
+- Rating & Reviews: 4.8 Stars (166 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #19:
+- Business Name: Bradford Urgent Dental Centre
+- Category: Dentists
+- Location: Science Park, 47 Campus Rd, Bradford BD7 1HR, UK
+- Phone: +44 1274 753736
+- Google Maps: https://maps.google.com/?cid=2477030241403609612
+- Rating & Reviews: 3.8 Stars (324 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #20:
+- Business Name: Southbrook Dental Practice
+- Category: Dentists
+- Location: 10 Southbrook Terrace, Bradford BD7 1AD, UK
+- Phone: +44 1274 726235
+- Google Maps: https://maps.google.com/?cid=245530178432379827
+- Rating & Reviews: 4.8 Stars (152 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #21:
+- Business Name: The Smile Centre Coventry
+- Category: Dentists
+- Location: 90 Walsgrave Rd, Coventry CV2 4ED, UK
+- Phone: +44 24 7645 3850
+- Google Maps: https://maps.google.com/?cid=11736287981458025823
+- Rating & Reviews: 4.4 Stars (154 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #22:
+- Business Name: University Dental Hospital
+- Category: Dentists
+- Location: Cardiff CF14 4XY, UK
+- Phone: +44 29 2184 2413
+- Google Maps: https://maps.google.com/?cid=11960026226225099546
+- Rating & Reviews: 4.1 Stars (57 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #23:
+- Business Name: Central Dental Practice
+- Category: Dentists
+- Location: 52-56, 52-56 Curzon St, Derby DE1 1LP, UK
+- Phone: +44 1332 202200
+- Google Maps: https://maps.google.com/?cid=6752429157216389447
+- Rating & Reviews: 3.6 Stars (33 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #24:
+- Business Name: NHS Plymouth
+- Category: Dentists
+- Location: 1 Derriford Park, Plymouth PL6 5QZ, UK
+- Phone: +44 845 155 8000
+- Google Maps: https://maps.google.com/?cid=5779946663836938407
+- Rating & Reviews: 4.5 Stars (13 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #25:
+- Business Name: Griffith University Dental Clinic
+- Category: Dentists
+- Location: Level 3, Griffith Health Centre (G40), Gold Coast campus, Cnr Parklands Drive and Olsen Avenue, Southport QLD 4215, Australia
+- Phone: +61 1800 188 295
+- Google Maps: https://maps.google.com/?cid=192367080500779691
+- Rating & Reviews: 4.1 Stars (96 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #26:
+- Business Name: Dr D Karwarz
+- Category: Dentists
+- Location: Unit 21/19 Atchison St, Wollongong NSW 2500, Australia
+- Phone: +61 2 4226 9899
+- Google Maps: https://maps.google.com/?cid=9617736434647362280
+- Rating & Reviews: 4.9 Stars (65 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
