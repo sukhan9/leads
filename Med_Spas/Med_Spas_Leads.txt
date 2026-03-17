@@ -19,3 +19,228 @@ Lead #2:
 - Rating & Reviews: 4.9 Stars (19 Reviews)
 - Reason: Premium service business with strong local reputation but ZERO online presence/website.
 --------------------------------------------------
+Lead #3:
+- Business Name: Allure Aesthetix
+- Category: Med_Spas
+- Location: 1201 Ocean Dr, Corpus Christi, TX 78404, USA
+- Phone: +1 361-462-4464
+- Google Maps: https://maps.google.com/?cid=1279241925193247842
+- Rating & Reviews: 4.8 Stars (109 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #4:
+- Business Name: Amorr Beauty Inc
+- Category: Med_Spas
+- Location: 5665 N Pershing Ave suite a2, Stockton, CA 95207, USA
+- Phone: +1 209-905-6410
+- Google Maps: https://maps.google.com/?cid=14810044041147078426
+- Rating & Reviews: 4.8 Stars (43 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #5:
+- Business Name: Salt and Sage Wellness Studio
+- Category: Med_Spas
+- Location: 8909 Thornton Rd #2, Stockton, CA 95209, USA
+- Phone: +1 209-990-6570
+- Google Maps: https://maps.google.com/?cid=8950207556371538809
+- Rating & Reviews: 5 Stars (3 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #6:
+- Business Name: Ideal Image St. Paul Grand Avenue
+- Category: Med_Spas
+- Location: 850 Grand Ave Suite No 5, St Paul, MN 55105, USA
+- Phone: +1 651-802-7109
+- Google Maps: https://maps.google.com/?cid=17646024084898159323
+- Rating & Reviews: 4.6 Stars (504 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #7:
+- Business Name: Sunshine Cosmetic Clinic & Medi Spa
+- Category: Med_Spas
+- Location: 618 Lakeshore Rd E, Mississauga, ON L5G 1J4, Canada
+- Phone: +1 289-695-6888
+- Google Maps: https://maps.google.com/?cid=8302004532833678301
+- Rating & Reviews: 5 Stars (18 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #8:
+- Business Name: Absolute
+- Category: Med_Spas
+- Location: 650 Matheson Blvd W, Mississauga, ON L5R 3T2, Canada
+- Phone: +1 905-897-0772
+- Google Maps: https://maps.google.com/?cid=15770206037736537355
+- Rating & Reviews: 4.5 Stars (325 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #9:
+- Business Name: Timeless Medispa- Females only
+- Category: Med_Spas
+- Location: 46 Hudson Dr, Brampton, ON L6Y 2N7, Canada
+- Phone: +1 647-385-7995
+- Google Maps: https://maps.google.com/?cid=13561643532842470301
+- Rating & Reviews: 4.9 Stars (163 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #10:
+- Business Name: BP Medi Spa
+- Category: Med_Spas
+- Location: 8460 Torbram Rd, Brampton, ON L6T 5H4, Canada
+- Phone: +1 905-790-0037
+- Google Maps: https://maps.google.com/?cid=13837782078196812394
+- Rating & Reviews: 5 Stars (12 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #11:
+- Business Name: Glolight Med Spa
+- Category: Med_Spas
+- Location: Torbram and, Blue Diamond Dr, Brampton, ON L6S 6H8, Canada
+- Phone: +1 647-239-0141
+- Google Maps: https://maps.google.com/?cid=9849107292489997424
+- Rating & Reviews: 5 Stars (20 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #12:
+- Business Name: Jupiter Medi Spa
+- Category: Med_Spas
+- Location: 13745 72 Ave #121a, Surrey, BC V3W 2P3, Canada
+- Phone: +1 604-596-3725
+- Google Maps: https://maps.google.com/?cid=9517565633159484067
+- Rating & Reviews: 5 Stars (133 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #13:
+- Business Name: Desirable Med Spa
+- Category: Med_Spas
+- Location: 152 82 Ave, Surrey, BC V3X1S8, Canada
+- Phone: +1 778-325-0096
+- Google Maps: https://maps.google.com/?cid=80272115679621088
+- Rating & Reviews: 5 Stars (36 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #14:
+- Business Name: Paradigm Medi Spa
+- Category: Med_Spas
+- Location: 844 Wonderland Rd S, London, ON N6K 2V8, Canada
+- Phone: +1 519-639-9888
+- Google Maps: https://maps.google.com/?cid=4853817673645254813
+- Rating & Reviews: 5 Stars (102 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #15:
+- Business Name: 911botox & Medi Spa
+- Category: Med_Spas
+- Location: 218 Horton St E, London, ON N6B 1K9, Canada
+- Phone: +1 226-456-1727
+- Google Maps: https://maps.google.com/?cid=13344708310503003087
+- Rating & Reviews: 5 Stars (42 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #16:
+- Business Name: The Village Med Spa
+- Category: Med_Spas
+- Location: 4441 Hwy 7, Markham, ON L3R 1N1, Canada
+- Phone: +1 416-737-2005
+- Google Maps: https://maps.google.com/?cid=10733794486389348332
+- Rating & Reviews: 4.7 Stars (141 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #17:
+- Business Name: Massage & Head Spa 名仁养生馆
+- Category: Med_Spas
+- Location: 8360 Kennedy Rd b5, Markham, ON L3R 9W4, Canada
+- Phone: +1 437-607-8999
+- Google Maps: https://maps.google.com/?cid=6086582455257294841
+- Rating & Reviews: 4.9 Stars (1373 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #18:
+- Business Name: Renew Spa & Wellness Clinic
+- Category: Med_Spas
+- Location: 226 Copper Creek Dr, Markham, ON L6B 1N6, Canada
+- Phone: +1 289-554-9613
+- Google Maps: https://maps.google.com/?cid=4344490695874752103
+- Rating & Reviews: 5 Stars (44 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #19:
+- Business Name: RA Medical Aesthetics & Spa
+- Category: Med_Spas
+- Location: 534 Victoria Ave E, Regina, SK S4N 0N7, Canada
+- Phone: +1 306-999-3213
+- Google Maps: https://maps.google.com/?cid=7985090397573273757
+- Rating & Reviews: 4.7 Stars (61 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #20:
+- Business Name: Spa 160
+- Category: Med_Spas
+- Location: 160 Horbury Rd, Lupset, Wakefield WF2 8BQ, UK
+- Phone: +44 7788 730505
+- Google Maps: https://maps.google.com/?cid=7592442073205131489
+- Rating & Reviews: 5 Stars (22 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #21:
+- Business Name: Harmony Head Spa Notts
+- Category: Med_Spas
+- Location: Fraser Rd, Carlton, Nottingham NG4 1NJ, UK
+- Phone: +44 7394 407016
+- Google Maps: https://maps.google.com/?cid=4252098130695850668
+- Rating & Reviews: 5 Stars (6 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #22:
+- Business Name: HarSPA
+- Category: Med_Spas
+- Location: Ocean Village, Southampton SO14 3QT, UK
+- Phone: +44 23 8110 3210
+- Google Maps: https://maps.google.com/?cid=5973786648440870234
+- Rating & Reviews: 4.3 Stars (53 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #23:
+- Business Name: Mine Spa
+- Category: Med_Spas
+- Location: Level 1/131 Liverpool St, Hobart TAS 7000, Australia
+- Phone: +61 406 619 888
+- Google Maps: https://maps.google.com/?cid=5806064375496744863
+- Rating & Reviews: 5 Stars (4 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #24:
+- Business Name: Float House Townsville
+- Category: Med_Spas
+- Location: 18 Brisbane Dr, Jensen QLD 4818, Australia
+- Phone: +61 414 402 769
+- Google Maps: https://maps.google.com/?cid=9615564559784899413
+- Rating & Reviews: 5 Stars (29 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #25:
+- Business Name: Nakara Cove Massage
+- Category: Med_Spas
+- Location: 5 Nakara Pl, Nakara NT 0810, Australia
+- Phone: +61 407 114 114
+- Google Maps: https://maps.google.com/?cid=4389511702844178755
+- Rating & Reviews: 4.9 Stars (79 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #26:
+- Business Name: Libira Remedial Therapy & Day Spa
+- Category: Med_Spas
+- Location: 318 Pleasant St S, Newington VIC 3350, Australia
+- Phone: +61 3 5333 1009
+- Google Maps: https://maps.google.com/?cid=3377671428146405318
+- Rating & Reviews: 4.5 Stars (8 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
+Lead #27:
+- Business Name: Ruby Nail And Spa Beauty
+- Category: Med_Spas
+- Location: 3/24 Doveton St N, Ballarat Central VIC 3350, Australia
+- Phone: +61 425 186 188
+- Google Maps: https://maps.google.com/?cid=1621282827598072414
+- Rating & Reviews: 5 Stars (178 Reviews)
+- Reason: Active service business with local reputation but ZERO online presence/website.
+--------------------------------------------------
